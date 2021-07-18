@@ -1,0 +1,17 @@
+tslearn
+tensorflow-datasets==4.2.0
+tensorflow
+sox
+sounddevice
+sklearn
+setuptools==53.1.0
+scipy
+pyyaml
+pandas
+numpy
+nara-wpe
+matplotlib
+lightgbm
+keras
+fastcluster
+awscli
